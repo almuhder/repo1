@@ -27,15 +27,14 @@ body {
   background-color: blueviolet;
   height: 200px;
 }
+/* .flex-item {
+  background-color: aqua;
+  width: 300px;
+  margin: 10px;
+} */
 
 #pricing {
   background-color: yellowgreen;
   height: 300px;
   display: flex;
-}
-
-.flex-item {
-  background-color: aqua;
-  width: 300px;
-  margin: 10px;
 }
