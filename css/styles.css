@@ -1,0 +1,41 @@
+body {
+  margin: 0px;
+}
+
+.btn_send {
+  background-color: yellow;
+  color: blueviolet;
+}
+
+#navbar .logo {
+  width: 200px;
+}
+#navbar,
+#footer {
+  background-color: blue;
+  height: 40px;
+}
+#newsletter h1 {
+  margin: 0;
+}
+#newsletter {
+  background-color: #ccc;
+  height: 400px;
+}
+
+#youtube {
+  background-color: blueviolet;
+  height: 200px;
+}
+
+#pricing {
+  background-color: yellowgreen;
+  height: 300px;
+  display: flex;
+}
+
+.flex-item {
+  background-color: aqua;
+  width: 300px;
+  margin: 10px;
+}
